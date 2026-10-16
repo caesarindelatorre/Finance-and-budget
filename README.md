@@ -1,12 +1,9 @@
        Finance and Budget V1.0
 
-main menu
-
-<<<<<<< HEAD
 Type (python3 finance.py finance) in terminal to start the code
 
-=======
->>>>>>> e9d09d6b18f4c7fc8bdb4c59efe00ca512abc8e6
+main menu
+
 - manual insert of income
 - manual insert of expenses
 - manual insert of date for expense history
